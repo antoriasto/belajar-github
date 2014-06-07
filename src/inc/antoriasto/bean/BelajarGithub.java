@@ -6,6 +6,7 @@ public class BelajarGithub {
 		// Tes Commit Ke Dua.
 		// Tes Pindah Branch.
 		System.out.println("Hello Github");
+		System.out.println("Switch Profile");
 	}
 	
 }
